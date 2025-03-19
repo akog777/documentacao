@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*;Sistema de Gestão para a Farmácia Vida Saudável;*
+*Sistema de Gestão para a Farmácia Vida Saudável*
 </center></font>
 
 **Conteúdo**
