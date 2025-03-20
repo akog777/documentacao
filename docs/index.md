@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*<h1>Sistema de Gestão para a Farmácia Vida Saudável</h1>*
+*<h3>Sistema de Gestão para a Farmácia Vida Saudável</h3>*
 </center></font>
 
 **Conteúdo**
@@ -31,11 +31,11 @@
 
 # Descrição do Projeto
 
-*O Sr. Boticário contratou a nossa empresa de desenvolvimento - MACK
+O Sr. Boticário contratou a nossa empresa de desenvolvimento - MACK
 Solutions SW - para criar um sistema que otimize a operação da farmácia.
 Ele espera um sistema simples e eficiente que facilite as operações
 diárias dos funcionários, garantindo maior precisão e rapidez no
-atendimento.*
+atendimento.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
