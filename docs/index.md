@@ -23,10 +23,10 @@
 
 # Autores
 
-* Andre Drumond - 10724048 *
-* Eduardo Rodrigues - 10727042 *
-* Gabriel Henrique - 10439251 *
-* Isaac Koga - 10723323 *
+* *Andre Drumond - 10724048*
+* *Eduardo Rodrigues - 10727042*
+* *Gabriel Henrique - 10439251*
+* *Isaac Koga - 10723323*
 
 
 # Descrição do Projeto
