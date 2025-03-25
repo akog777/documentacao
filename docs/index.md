@@ -36,7 +36,7 @@ O projeto visa desenvolver um sistema informatizado para a Farmácia Vida Saudá
 O sistema permitirá o registro de medicamentos, clientes e vendas, atualizando automaticamente o estoque e gerando relatórios gerenciais. Além disso, contará com controle de acesso para atendentes e administradores. Seguindo diretrizes de modelagem UML, o desenvolvimento incluirá análise de requisitos e diagramas estruturais, garantindo maior precisão, rapidez e eficiência nas operações da farmácia.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-<b>Requisitos Funcionais (RF)</b>
+<h4>Requisitos Funcionais (RF)</h4>
 
 São os requisitos que definem as funcionalidades e comportamentos esperados do sistema: 
 
