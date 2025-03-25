@@ -59,6 +59,8 @@ RF08 – Histórico de Compras Cada cliente deve ter um histórico de compras at
 RF09 – Relatórios de Vendas O sistema deve gerar relatórios de vendas diárias, semanais e mensais, incluindo informações como produtos mais vendidos e clientes mais frequentes. 
 
 RF10 – Controle de Acesso por Perfil de Usuário O sistema deve permitir autenticação de usuários com perfis distintos: Atendentes: podem consultar produtos, realizar vendas e acessar o estoque. Administradores: podem cadastrar produtos, gerar relatórios, visualizar histórico e controlar acesso. 
+
+
 </br>
 <h4>Requisitos Não-Funcionais (RNF)</h4> 
 
@@ -75,7 +77,10 @@ RNF04 – Escalabilidade O sistema deve estar preparado para crescer em volume d
 RNF05 – Confiabilidade O sistema deve garantir a integridade dos dados armazenados, evitando perdas ou duplicações em casos de falhas ou reinicializações. 
 
 RNF06 – Compatibilidade O sistema deve funcionar em diferentes navegadores modernos e ser compatível com dispositivos desktop e tablets utilizados na farmácia.
+
+
 </br>
+
 # Diagrama de Atividades
 
 <img src="diagrama.png" alt="diagrama">
