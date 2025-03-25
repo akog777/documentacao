@@ -42,7 +42,7 @@ atendimento.
 
 # Diagrama de Atividades
 
-<img src="diagrama.png" alt="diagrama">
+![Diagrama Atividades]<img src="diagrama.png" alt="diagrama">
 
 # Diagrama de Casos de Uso
 
