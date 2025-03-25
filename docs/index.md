@@ -38,7 +38,7 @@ O sistema permitirá o registro de medicamentos, clientes e vendas, atualizando 
 # Análise de Requisitos Funcionais e Não-Funcionais
 <h3>Requisitos Funcionais (RF)</h3>
 
-São os requisitos que definem as funcionalidades e comportamentos esperados do sistema: 
+<h5>São os requisitos que definem as funcionalidades e comportamentos esperados do sistema:</h5>
 
 <b>RF01</b> | Cadastro de Clientes: O sistema deve permitir o cadastro de clientes com as seguintes informações: nome completo, CPF, CEP e telefone. Esses dados serão utilizados para histórico de compras e geração de relatórios. 
 
