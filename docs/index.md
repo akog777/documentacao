@@ -66,17 +66,17 @@ São os requisitos que definem as funcionalidades e comportamentos esperados do 
 
 Estes requisitos definem restrições, qualidades e condições do sistema: 
 
-RNF01 – Usabilidade O sistema deve possuir uma interface amigável e intuitiva, que facilite o uso por funcionários com diferentes níveis de conhecimento técnico. 
+<b>RNF01</b> – Usabilidade O sistema deve possuir uma interface amigável e intuitiva, que facilite o uso por funcionários com diferentes níveis de conhecimento técnico. 
 
-RNF02 – Desempenho As operações do sistema, como consulta de estoque e finalização de venda, devem ser realizadas em até 2 segundos, garantindo fluidez no atendimento. 
+<b>RNF02</b> – Desempenho As operações do sistema, como consulta de estoque e finalização de venda, devem ser realizadas em até 2 segundos, garantindo fluidez no atendimento. 
 
-RNF03 – Segurança Deve haver autenticação de usuários, proteção dos dados pessoais dos clientes e registros das ações feitas no sistema. 
+<b>RNF03</b> – Segurança Deve haver autenticação de usuários, proteção dos dados pessoais dos clientes e registros das ações feitas no sistema. 
 
-RNF04 – Escalabilidade O sistema deve estar preparado para crescer em volume de usuários, produtos e vendas, sem perda significativa de desempenho. 
+<b>RNF04</b> – Escalabilidade O sistema deve estar preparado para crescer em volume de usuários, produtos e vendas, sem perda significativa de desempenho. 
 
-RNF05 – Confiabilidade O sistema deve garantir a integridade dos dados armazenados, evitando perdas ou duplicações em casos de falhas ou reinicializações. 
+<b>RNF05</b> – Confiabilidade O sistema deve garantir a integridade dos dados armazenados, evitando perdas ou duplicações em casos de falhas ou reinicializações. 
 
-RNF06 – Compatibilidade O sistema deve funcionar em diferentes navegadores modernos e ser compatível com dispositivos desktop e tablets utilizados na farmácia.
+<b>RNF06</b> – Compatibilidade O sistema deve funcionar em diferentes navegadores modernos e ser compatível com dispositivos desktop e tablets utilizados na farmácia.
 
 
 </br>
