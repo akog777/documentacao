@@ -40,9 +40,9 @@ O sistema permitirá o registro de medicamentos, clientes e vendas, atualizando 
 
 <h4>São os requisitos que definem as funcionalidades e comportamentos esperados do sistema:</h4>
 
-<b>RF01</b> | Cadastro de Clientes: O sistema deve permitir o cadastro de clientes com as seguintes informações: nome completo, CPF, CEP e telefone. Esses dados serão utilizados para histórico de compras e geração de relatórios. 
+<b>RF01 | Cadastro de Clientes:</b> O sistema deve permitir o cadastro de clientes com as seguintes informações: nome completo, CPF, CEP e telefone. Esses dados serão utilizados para histórico de compras e geração de relatórios. 
 
-<b>RF02</b> | Cadastro de Produtos (Medicamentos): O sistema deve permitir o registro de produtos, contendo nome, lote, data de validade, quantidade em estoque e fabricante. Também deve ser possível informar o preço de venda de cada item. 
+<b>RF02 | Cadastro de Produtos (Medicamentos):</b> O sistema deve permitir o registro de produtos, contendo nome, lote, data de validade, quantidade em estoque e fabricante. Também deve ser possível informar o preço de venda de cada item. 
 
 <b>RF03</b> | Realização de Vendas: O sistema deve permitir que um atendente registre uma venda, vinculando os produtos comprados a um cliente previamente cadastrado. 
 
