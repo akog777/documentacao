@@ -60,7 +60,7 @@ RF09 – Relatórios de Vendas O sistema deve gerar relatórios de vendas diári
 
 RF10 – Controle de Acesso por Perfil de Usuário O sistema deve permitir autenticação de usuários com perfis distintos: Atendentes: podem consultar produtos, realizar vendas e acessar o estoque. Administradores: podem cadastrar produtos, gerar relatórios, visualizar histórico e controlar acesso. 
 
-Requisitos Não-Funcionais (RNF) 
+<h4>Requisitos Não-Funcionais (RNF)</h4> 
 
 Estes requisitos definem restrições, qualidades e condições do sistema: 
 
