@@ -40,25 +40,25 @@ O sistema permitirá o registro de medicamentos, clientes e vendas, atualizando 
 
 São os requisitos que definem as funcionalidades e comportamentos esperados do sistema: 
 
-<b>RF01</b> | Cadastro de Clientes O sistema deve permitir o cadastro de clientes com as seguintes informações: nome completo, CPF, CEP e telefone. Esses dados serão utilizados para histórico de compras e geração de relatórios. 
+<b>RF01</b> | Cadastro de Clientes: O sistema deve permitir o cadastro de clientes com as seguintes informações: nome completo, CPF, CEP e telefone. Esses dados serão utilizados para histórico de compras e geração de relatórios. 
 
-<b>RF02</b> | Cadastro de Produtos (Medicamentos) => O sistema deve permitir o registro de produtos, contendo nome, lote, data de validade, quantidade em estoque e fabricante. Também deve ser possível informar o preço de venda de cada item. 
+<b>RF02</b> | Cadastro de Produtos (Medicamentos): O sistema deve permitir o registro de produtos, contendo nome, lote, data de validade, quantidade em estoque e fabricante. Também deve ser possível informar o preço de venda de cada item. 
 
-<b>RF03</b> | Realização de Vendas => O sistema deve permitir que um atendente registre uma venda, vinculando os produtos comprados a um cliente previamente cadastrado. 
+<b>RF03</b> | Realização de Vendas: O sistema deve permitir que um atendente registre uma venda, vinculando os produtos comprados a um cliente previamente cadastrado. 
 
-<b>RF04</b> | Cálculo de Descontos => Durante a venda, o sistema deve calcular o valor total da compra e aplicar descontos, caso estejam disponíveis ou previstos por regras do sistema (ex: promoções, quantidade, validade próxima, etc.). 
+<b>RF04</b> | Cálculo de Descontos: Durante a venda, o sistema deve calcular o valor total da compra e aplicar descontos, caso estejam disponíveis ou previstos por regras do sistema (ex: promoções, quantidade, validade próxima, etc.). 
 
-<b>RF05</b> | Pagamento => O sistema deve registrar o pagamento da compra, aceitando métodos como crédito e débito, e gerar um recibo após a finalização. 
+<b>RF05</b> | Pagamento: O sistema deve registrar o pagamento da compra, aceitando métodos como crédito e débito, e gerar um recibo após a finalização. 
 
-<b>RF06</b> | Atualização de Estoque => O sistema deve atualizar automaticamente o estoque com base nas quantidades vendidas, garantindo que os dados estejam sempre sincronizados. 
+<b>RF06</b> | Atualização de Estoque: O sistema deve atualizar automaticamente o estoque com base nas quantidades vendidas, garantindo que os dados estejam sempre sincronizados. 
 
-<b>RF07</b> | Controle de Produtos Próximos da Validade => O sistema deve verificar periodicamente a validade dos produtos e alertar o administrador caso estejam próximos do vencimento. 
+<b>RF07</b> | Controle de Produtos Próximos da Validade: O sistema deve verificar periodicamente a validade dos produtos e alertar o administrador caso estejam próximos do vencimento. 
 
-<b>RF08</b> | Histórico de Compras => Cada cliente deve ter um histórico de compras atualizado automaticamente após cada venda, com data, produtos comprados e valor total. 
+<b>RF08</b> | Histórico de Compras: Cada cliente deve ter um histórico de compras atualizado automaticamente após cada venda, com data, produtos comprados e valor total. 
 
-<b>RF09</b> | Relatórios de Vendas => O sistema deve gerar relatórios de vendas diárias, semanais e mensais, incluindo informações como produtos mais vendidos e clientes mais frequentes. 
+<b>RF09</b> | Relatórios de Vendas: O sistema deve gerar relatórios de vendas diárias, semanais e mensais, incluindo informações como produtos mais vendidos e clientes mais frequentes. 
 
-<b>RF10</b> | Controle de Acesso por Perfil de Usuário => O sistema deve permitir autenticação de usuários com perfis distintos: Atendentes: podem consultar produtos, realizar vendas e acessar o estoque. Administradores: podem cadastrar produtos, gerar relatórios, visualizar histórico e controlar acesso. 
+<b>RF10</b> | Controle de Acesso por Perfil de Usuário: O sistema deve permitir autenticação de usuários com perfis distintos: Atendentes: podem consultar produtos, realizar vendas e acessar o estoque. Administradores: podem cadastrar produtos, gerar relatórios, visualizar histórico e controlar acesso. 
 
 
 </br>
@@ -66,17 +66,17 @@ São os requisitos que definem as funcionalidades e comportamentos esperados do 
 
 Estes requisitos definem restrições, qualidades e condições do sistema: 
 
-<b>RNF01</b> | Usabilidade O sistema deve possuir uma interface amigável e intuitiva, que facilite o uso por funcionários com diferentes níveis de conhecimento técnico. 
+<b>RNF01</b> | Usabilidade: O sistema deve possuir uma interface amigável e intuitiva, que facilite o uso por funcionários com diferentes níveis de conhecimento técnico. 
 
-<b>RNF02</b> | Desempenho As operações do sistema, como consulta de estoque e finalização de venda, devem ser realizadas em até 2 segundos, garantindo fluidez no atendimento. 
+<b>RNF02</b> | Desempenho: As operações do sistema, como consulta de estoque e finalização de venda, devem ser realizadas em até 2 segundos, garantindo fluidez no atendimento. 
 
-<b>RNF03</b> | Segurança Deve haver autenticação de usuários, proteção dos dados pessoais dos clientes e registros das ações feitas no sistema. 
+<b>RNF03</b> | Segurança: Deve haver autenticação de usuários, proteção dos dados pessoais dos clientes e registros das ações feitas no sistema. 
 
-<b>RNF04</b> | Escalabilidade O sistema deve estar preparado para crescer em volume de usuários, produtos e vendas, sem perda significativa de desempenho. 
+<b>RNF04</b> | Escalabilidade: O sistema deve estar preparado para crescer em volume de usuários, produtos e vendas, sem perda significativa de desempenho. 
 
-<b>RNF05</b> | Confiabilidade O sistema deve garantir a integridade dos dados armazenados, evitando perdas ou duplicações em casos de falhas ou reinicializações. 
+<b>RNF05</b> | Confiabilidade: O sistema deve garantir a integridade dos dados armazenados, evitando perdas ou duplicações em casos de falhas ou reinicializações. 
 
-<b>RNF06</b> | Compatibilidade O sistema deve funcionar em diferentes navegadores modernos e ser compatível com dispositivos desktop e tablets utilizados na farmácia.
+<b>RNF06</b> | Compatibilidade: O sistema deve funcionar em diferentes navegadores modernos e ser compatível com dispositivos desktop e tablets utilizados na farmácia.
 
 
 </br>
